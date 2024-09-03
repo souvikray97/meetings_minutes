@@ -11,3 +11,5 @@ source2: "https://script.google.com/macros/s/AKfycbwXSAkyTGGyYHyM1YTY_UqLfpoXIGM
 confirm experiments shoud be hosted on "vlab.co.in"
 
 integrate linux through cloud on a web app. use hiraku/redhat
+
+learn about UX & UI design Basics and best practices. 
