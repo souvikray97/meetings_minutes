@@ -1,4 +1,4 @@
-*make sure the first 3exp are hosted.
+*make sure the first three experiments are hosted.
 
 *experiments should be interactive.
 
